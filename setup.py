@@ -6,7 +6,7 @@ setup(
     packages=find_packages(),
     version="0.1.1",
     description="Python package for computer vision",
-    author="EVA6 Group 15",
+    author="ikshana.ai",
     license="MIT",
     url="https://github.com/ikshana-ai/ikshana",
     install_requires=[
