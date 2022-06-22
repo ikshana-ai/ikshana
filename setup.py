@@ -18,7 +18,7 @@ setup(
         "torchsummary==1.5.1",
         "tqdm==4.61.0",
         "matplotlib==3.4.2",
-        "numpy==1.20.3",
+        "numpy==1.22.0",
         "pandas==1.2.4",
         "hiddenlayer==0.3",
         "seaborn==0.11.1",
